@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tixastronauta&count_private=true&theme=github_dark&show_icons=true&hide_border=true&bg_color=22272e&custom_title=Hi%20there%20%F0%9F%91%8B%21%20My%20name%20is%20Tiago%20Tix%20)](https://github.com/tixastronauta)
+
 
 <!--
 **tixastronauta/tixastronauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
